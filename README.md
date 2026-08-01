@@ -46,11 +46,7 @@ SQLite Database → SQL Query → Pandas DataFrame → Feature Engineering
 - Top churn driver identified: customer tenure (newer customers churn more)
 - Second driver: monthly charges (higher charges → higher churn risk)
 
-## Key Insight to Mention in Interviews
-> "I built an end-to-end churn prediction pipeline — pulling data via SQL,
-> engineering features, training a Random Forest classifier, and
-> identifying that customer tenure and monthly charges were the strongest
-> churn predictors, which could inform retention strategy."
+
 
 ## Author
 [Ayush Raj] — B.Tech CSE, 3rd Year (Data Analytics Specialization)
